@@ -1,0 +1,74 @@
+.encabezado {
+    background-color: mediumvioletred;
+    margin: none;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.titulo {
+    margin: 0 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 0 40px;
+}
+.logo {
+    margin: 0 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 0 40px;
+}
+.botonera {
+    background-color: #53087e;
+    margin: none;
+    padding: 10px;
+}
+ul {
+    display: flex;
+}
+li {
+    margin: 0 20px;
+}
+.centro {
+    display: flex;
+    background-color: blueviolet;
+    justify-content: space-between;
+    padding: 20px;
+}
+.novedades {
+    width: 66%;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+    margin: 0px;
+}
+.novedad1, .novedad2 {
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+    height: 50%;
+    padding: 0 20px;
+}
+
+.reciente {
+    width: 33%;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+}
+.reciente1, .reciente2, .reciente3 {
+    border-color: black;
+    border-style: solid;
+    margin: none;
+    padding: 20px;
+}
+img {
+    height: 150px;
+    width: 90px;
+}
+p {
+    font-size: 20px;
+}
+.pie {
+    background-color: blue;
+    padding: 20px;
+}
